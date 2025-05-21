@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\about-bg–desktop.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-bg–desktop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\about-bg–mobile.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-bg–mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\services-bg–desktop.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-bg–desktop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\services-bg–mobile.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-bg–mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\video\\hero.mp4",
+      "PackagePath": "staticwebassets\\assets\\video\\hero.mp4"
+    },
+    {
+      "Id": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\car.jpg",
+      "PackagePath": "staticwebassets\\images\\car.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\featured_image5d35a4e621070.png",
+      "PackagePath": "staticwebassets\\images\\featured_image5d35a4e621070.png"
+    },
+    {
+      "Id": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\gold.jpeg",
+      "PackagePath": "staticwebassets\\images\\gold.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\images.jpeg",
+      "PackagePath": "staticwebassets\\images\\images.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\plainko.jpg",
+      "PackagePath": "staticwebassets\\images\\plainko.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\wow.jpeg",
+      "PackagePath": "staticwebassets\\images\\wow.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\zQ1mP6.jpg",
+      "PackagePath": "staticwebassets\\images\\zQ1mP6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

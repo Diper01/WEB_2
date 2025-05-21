@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Maksym Khomiak — Unity Developer</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header class="header">
+    <div class="logo">M.Khomyak</div>
+    <button class="burger" aria-label="Toggle menu" aria-expanded="false">&#9776;</button>
+    <nav class="nav">
+        <ul class="nav__list">
+            <li><a href="#home">Home</a></li>
+            <li class="has-submenu">
+                <a href="#about">About</a>
+                <ul class="submenu">
+                    <li><a href="#team">Team</a></li>
+                    <li><a href="#history">History</a></li>
+                </ul>
+            </li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contacts">Contacts</a></li>
+        </ul>
+    </nav>
+</header>
+<section id="home" class="hero">
+    <video class="bg-video" autoplay muted loop playsinline>
+        <source src="assets/video/hero.mp4" type="video/mp4">
+    </video>
+    <div class="hero__content">
+        <h1>Hello! I’m Maksym — Unity Developer</h1>
+        <p>I build mobile & PC games using Unity, Photon, PlayFab and clean architecture.</p>
+        <a href="#projects" class="button">See My Projects</a>
+    </div>
+</section>
+<section id="about" class="about">
+    <h2>About Me</h2>
+    <p>I’m a Unity Developer with 1.5+ years of experience. I specialize in 2D/3D mobile and desktop games. I’ve worked with companies like AlphaNova, QPLAZE and Soulma.</p>
+    <ul>
+        <li>Unity (URP/HDRP), Shader Graph, Timeline</li>
+        <li>Photon PUN2, Photon Quantum, PlayFab, Firebase</li>
+        <li>Zenject (IoC), ScriptableObjects</li>
+        <li>Platforms: Android, iOS, PC, PlayStation</li>
+    </ul>
+</section>
+<section id="projects" class="projects">
+    <h2>My Projects</h2>
+    <div class="projects__list">
+        <div class="project">
+            <img src="images/gold.jpeg" alt="Golden Rush Slots" />
+            <div class="project__title">Golden Rush Slots</div>
+        </div>
+        <div class="project">
+            <img src="images/plainko.jpg" alt="Plinko" />
+            <div class="project__title">Plinko</div>
+        </div>
+        <div class="project">
+            <img src="images/wow.jpeg" alt="Word Escape" />
+            <div class="project__title">Word Escape Connect</div>
+        </div>
+        <div class="project">
+            <img src="images/car.jpg" alt="Car Racing" />
+            <div class="project__title">Toon Car Transform Racing</div>
+        </div>
+    </div>
+</section>
+<section id="services" class="services">
+    <h2>Services</h2>
+    <ul>
+        <li>Custom Unity game development (mobile, PC, VR)</li>
+        <li>Optimization & profiling (performance, memory)</li>
+        <li>Consulting and Unity/C# training</li>
+    </ul>
+</section>
+<section id="pricing" class="pricing">
+    <h2>Pricing Plans</h2>
+    <div class="pricing__cards">
+        <div class="pricing__card">
+            <h3>Hourly Rate</h3>
+            <div class="price">
+                <span class="amount">$50</span><span class="period">/hr</span>
+            </div>
+            <ul class="features">
+                <li>Game Development</li>
+                <li>Bug Fixes & Updates</li>
+                <li>Performance Optimization</li>
+            </ul>
+            <a href="#contacts" class="btn">Select</a>
+        </div>
+        <div class="pricing__card">
+            <h3>Project-Based</h3>
+            <div class="price">
+                <span class="amount">$2,000</span><span class="period">/project</span>
+            </div>
+            <ul class="features">
+                <li>End-to-End Delivery</li>
+                <li>Quality Assurance</li>
+                <li>1 Month Support</li>
+            </ul>
+            <a href="#contacts" class="btn">Select</a>
+        </div>
+        <div class="pricing__card">
+            <h3>SDK Integration</h3>
+            <div class="price">
+                <span class="amount">$500</span><span class="period">/integration</span>
+            </div>
+            <ul class="features">
+                <li>PlayFab & Firebase</li>
+                <li>Documentation</li>
+                <li>Maintenance Support</li>
+            </ul>
+            <a href="#contacts" class="btn">Select</a>
+        </div>
+        <div class="pricing__card">
+            <h3>Consultation</h3>
+            <div class="price">
+                <span class="amount">$100</span><span class="period">/hr</span>
+            </div>
+            <ul class="features">
+                <li>Technical Audit</li>
+                <li>Code Review</li>
+                <li>Architecture Planning</li>
+            </ul>
+            <a href="#contacts" class="btn">Select</a>
+        </div>
+        <div class="pricing__card">
+            <h3>Unlimited Support</h3>
+            <div class="price">
+                <span class="amount">$300</span><span class="period">/mo</span>
+            </div>
+            <ul class="features">
+                <li>24/7 Availability</li>
+                <li>Priority Response</li>
+                <li>Weekly Check-ins</li>
+            </ul>
+            <a href="#contacts" class="btn">Select</a>
+        </div>
+    </div>
+</section>
+
+<section id="contacts" class="contacts">
+    <h2>Contact Me</h2>
+    <form id="contact-form" class="contact-form">
+        <fieldset>
+            <legend>Get in Touch</legend>
+            <label>
+                Name
+                <input type="text" name="name" required>
+            </label>
+            <label>
+                Email
+                <input type="email" name="email" required>
+            </label>
+            <label>
+                Message
+                <textarea name="message" rows="4" required></textarea>
+            </label>
+        </fieldset>
+        <button type="submit" class="submit-btn">Send Message</button>
+    </form>
+    <ul class="contact-links">
+        <li>Email: <a href="mailto:maksymkhomiakdev@gmail.com">maksymkhomiakdev@gmail.com</a></li>
+        <li>GitHub: <a href="https://github.com/Diper01">github.com/Diper01</a></li>
+        <li>LinkedIn: <a href="https://linkedin.com/in/maks-khomiak">linkedin.com/in/maks-khomiak</a></li>
+        <li>Telegram: <a href="https://t.me/in_a_human_suit">t.me/in_a_human_suit</a></li>
+    </ul>
+</section>
+
+
+
+<footer class="footer">
+    <p>© 2025 Maksym Khomiak. All rights reserved.</p>
+</footer>
+<script src="script.js" defer></script>
+</body>
+</html>

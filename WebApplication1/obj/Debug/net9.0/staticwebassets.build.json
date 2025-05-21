@@ -1,0 +1,2278 @@
+{
+  "Version": 1,
+  "Hash": "fXkG8nz3GhqjsDh+f8Icf1ACX2syF6fORPx3cTSiiec=",
+  "Source": "WebApplication1",
+  "BasePath": "_content/WebApplication1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication1\\wwwroot",
+      "Source": "WebApplication1",
+      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\5hwdg3sa8t-8hy4ahliiy.gz",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "index#[.{fingerprint=8hy4ahliiy}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "owyipwidia",
+      "Integrity": "yOW66qHxgyPeaABseqptEZSvs/1hEhti6HWb4JVwxAs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\nyv7wr2by3-ulk3a2vy7d.gz",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "script#[.{fingerprint=ulk3a2vy7d}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "hzo2z9q26v",
+      "Integrity": "Ay6Xxv4tgpeAFqdd1wrV7WaerfPdqoqyF1RC+qmgaEg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\wb5q0dd5e6-so0owp210o.gz",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "style#[.{fingerprint=so0owp210o}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zk0yxbr13d",
+      "Integrity": "c/TWNmUvN+89oiHbMMkushInp78vQl++jI3YXc9wVBw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\about-bg–desktop.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "assets/images/about-bg–desktop#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o9s1bny78h",
+      "Integrity": "XMx/aiEPtI19fNuEvESIzEKjiw5RF0Ig0C+xKqSIrbA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\about-bg–desktop.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\about-bg–mobile.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "assets/images/about-bg–mobile#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rzll12s62u",
+      "Integrity": "aXRMLvRSh4vnArRPdt009vlCBroGeFCiFyl+3D5MHrY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\about-bg–mobile.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\services-bg–desktop.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "assets/images/services-bg–desktop#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n43rzc95xe",
+      "Integrity": "aTQklUIxrWnU5WNelrkmu6n5gDHDpL/5eTZTbz3BazY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\services-bg–desktop.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\services-bg–mobile.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "assets/images/services-bg–mobile#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h1nx654soa",
+      "Integrity": "5SwCbjyd+Bh5u3p+P41H/VZnmrNEXwG9933AUWaNF88=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\services-bg–mobile.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\video\\hero.mp4",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "assets/video/hero#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "krzv7hq246",
+      "Integrity": "MM4QKzQPQo+dv1rIJJqIl4Hyf07MT42zh/tiNAb8z/U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\video\\hero.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\car.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/car#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3sb4roctgk",
+      "Integrity": "XZC3CciDjOjDUwBbmChewBIe5NZkueGgiFMAGUwAYL4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\car.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\featured_image5d35a4e621070.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/featured_image5d35a4e621070#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o08d186xzm",
+      "Integrity": "2Mrj0nWbvvF07tPRPrMLMVYeJWOI7cwDiMiIzprG7sY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\featured_image5d35a4e621070.png"
+    },
+    {
+      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\gold.jpeg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/gold#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nudux145jq",
+      "Integrity": "YXkjjY5AbuKbU0Unt4rwe9lm7WD6o6BjrzU5fZMVRfI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\gold.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\images.jpeg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/images#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xffwsyed43",
+      "Integrity": "02VVHr/oAfD1E7djfW9zl1Zmbqoz/qCfMMWVPU6inYw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\plainko.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/plainko#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7gk8oo24ty",
+      "Integrity": "eU6HxI73vk+QlDP1iBhvZzwh/A/5jHl5uP/qVrk1D0s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\plainko.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\wow.jpeg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/wow#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cso2h0rpab",
+      "Integrity": "BHW5+VwHYgK6qfhmXVSWHlIwY8+QQ2LoRW7ArChgkUg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\wow.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\zQ1mP6.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/zQ1mP6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6ji0vr9w95",
+      "Integrity": "LkfZlwvgFpus20AYIAMB9Gk4T9W+9mK0pQYWpCEvlKY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\zQ1mP6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\index.html",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8hy4ahliiy",
+      "Integrity": "jIV/QmZTKQhD0B/W7dSlC6FOESzEhVpKMOa2c+pyu2s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\script.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ulk3a2vy7d",
+      "Integrity": "Eo3KLuA6AisHhPEz2mEP1BAcdhhXPNxJyHct4QH8fp4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\style.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "so0owp210o",
+      "Integrity": "hGL0FfklU2qwb4RJXV7LEnIGBTQ1rNo1Kf+pT8tZpy0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "assets/images/about-bg–desktop.jpg",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\about-bg–desktop.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XMx/aiEPtI19fNuEvESIzEKjiw5RF0Ig0C+xKqSIrbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XMx/aiEPtI19fNuEvESIzEKjiw5RF0Ig0C+xKqSIrbA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/about-bg–desktop.o9s1bny78h.jpg",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\about-bg–desktop.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XMx/aiEPtI19fNuEvESIzEKjiw5RF0Ig0C+xKqSIrbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o9s1bny78h"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/about-bg–desktop.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XMx/aiEPtI19fNuEvESIzEKjiw5RF0Ig0C+xKqSIrbA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/about-bg–mobile.jpg",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\about-bg–mobile.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13797"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aXRMLvRSh4vnArRPdt009vlCBroGeFCiFyl+3D5MHrY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aXRMLvRSh4vnArRPdt009vlCBroGeFCiFyl+3D5MHrY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/about-bg–mobile.rzll12s62u.jpg",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\about-bg–mobile.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13797"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aXRMLvRSh4vnArRPdt009vlCBroGeFCiFyl+3D5MHrY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rzll12s62u"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/about-bg–mobile.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aXRMLvRSh4vnArRPdt009vlCBroGeFCiFyl+3D5MHrY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/services-bg–desktop.jpg",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\services-bg–desktop.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21166"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aTQklUIxrWnU5WNelrkmu6n5gDHDpL/5eTZTbz3BazY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aTQklUIxrWnU5WNelrkmu6n5gDHDpL/5eTZTbz3BazY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/services-bg–desktop.n43rzc95xe.jpg",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\services-bg–desktop.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21166"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aTQklUIxrWnU5WNelrkmu6n5gDHDpL/5eTZTbz3BazY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n43rzc95xe"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/services-bg–desktop.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aTQklUIxrWnU5WNelrkmu6n5gDHDpL/5eTZTbz3BazY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/services-bg–mobile.h1nx654soa.jpg",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\services-bg–mobile.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17809"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5SwCbjyd+Bh5u3p+P41H/VZnmrNEXwG9933AUWaNF88=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h1nx654soa"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/services-bg–mobile.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5SwCbjyd+Bh5u3p+P41H/VZnmrNEXwG9933AUWaNF88="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/services-bg–mobile.jpg",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\services-bg–mobile.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17809"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5SwCbjyd+Bh5u3p+P41H/VZnmrNEXwG9933AUWaNF88=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5SwCbjyd+Bh5u3p+P41H/VZnmrNEXwG9933AUWaNF88="
+        }
+      ]
+    },
+    {
+      "Route": "assets/video/hero.krzv7hq246.mp4",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\video\\hero.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5724370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MM4QKzQPQo+dv1rIJJqIl4Hyf07MT42zh/tiNAb8z/U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "krzv7hq246"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/video/hero.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MM4QKzQPQo+dv1rIJJqIl4Hyf07MT42zh/tiNAb8z/U="
+        }
+      ]
+    },
+    {
+      "Route": "assets/video/hero.mp4",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\video\\hero.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5724370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MM4QKzQPQo+dv1rIJJqIl4Hyf07MT42zh/tiNAb8z/U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MM4QKzQPQo+dv1rIJJqIl4Hyf07MT42zh/tiNAb8z/U="
+        }
+      ]
+    },
+    {
+      "Route": "images/car.3sb4roctgk.jpg",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\car.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "183004"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XZC3CciDjOjDUwBbmChewBIe5NZkueGgiFMAGUwAYL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3sb4roctgk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/car.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XZC3CciDjOjDUwBbmChewBIe5NZkueGgiFMAGUwAYL4="
+        }
+      ]
+    },
+    {
+      "Route": "images/car.jpg",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\car.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "183004"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XZC3CciDjOjDUwBbmChewBIe5NZkueGgiFMAGUwAYL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XZC3CciDjOjDUwBbmChewBIe5NZkueGgiFMAGUwAYL4="
+        }
+      ]
+    },
+    {
+      "Route": "images/featured_image5d35a4e621070.o08d186xzm.png",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\featured_image5d35a4e621070.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Mrj0nWbvvF07tPRPrMLMVYeJWOI7cwDiMiIzprG7sY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o08d186xzm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/featured_image5d35a4e621070.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Mrj0nWbvvF07tPRPrMLMVYeJWOI7cwDiMiIzprG7sY="
+        }
+      ]
+    },
+    {
+      "Route": "images/featured_image5d35a4e621070.png",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\featured_image5d35a4e621070.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Mrj0nWbvvF07tPRPrMLMVYeJWOI7cwDiMiIzprG7sY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Mrj0nWbvvF07tPRPrMLMVYeJWOI7cwDiMiIzprG7sY="
+        }
+      ]
+    },
+    {
+      "Route": "images/gold.jpeg",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\gold.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YXkjjY5AbuKbU0Unt4rwe9lm7WD6o6BjrzU5fZMVRfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YXkjjY5AbuKbU0Unt4rwe9lm7WD6o6BjrzU5fZMVRfI="
+        }
+      ]
+    },
+    {
+      "Route": "images/gold.nudux145jq.jpeg",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\gold.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YXkjjY5AbuKbU0Unt4rwe9lm7WD6o6BjrzU5fZMVRfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nudux145jq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/gold.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YXkjjY5AbuKbU0Unt4rwe9lm7WD6o6BjrzU5fZMVRfI="
+        }
+      ]
+    },
+    {
+      "Route": "images/images.jpeg",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"02VVHr/oAfD1E7djfW9zl1Zmbqoz/qCfMMWVPU6inYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-02VVHr/oAfD1E7djfW9zl1Zmbqoz/qCfMMWVPU6inYw="
+        }
+      ]
+    },
+    {
+      "Route": "images/images.xffwsyed43.jpeg",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"02VVHr/oAfD1E7djfW9zl1Zmbqoz/qCfMMWVPU6inYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xffwsyed43"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-02VVHr/oAfD1E7djfW9zl1Zmbqoz/qCfMMWVPU6inYw="
+        }
+      ]
+    },
+    {
+      "Route": "images/plainko.7gk8oo24ty.jpg",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\plainko.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61008"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eU6HxI73vk+QlDP1iBhvZzwh/A/5jHl5uP/qVrk1D0s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7gk8oo24ty"
+        },
+        {
+          "Name": "label",
+          "Value": "images/plainko.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eU6HxI73vk+QlDP1iBhvZzwh/A/5jHl5uP/qVrk1D0s="
+        }
+      ]
+    },
+    {
+      "Route": "images/plainko.jpg",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\plainko.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61008"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eU6HxI73vk+QlDP1iBhvZzwh/A/5jHl5uP/qVrk1D0s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eU6HxI73vk+QlDP1iBhvZzwh/A/5jHl5uP/qVrk1D0s="
+        }
+      ]
+    },
+    {
+      "Route": "images/wow.cso2h0rpab.jpeg",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\wow.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BHW5+VwHYgK6qfhmXVSWHlIwY8+QQ2LoRW7ArChgkUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cso2h0rpab"
+        },
+        {
+          "Name": "label",
+          "Value": "images/wow.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BHW5+VwHYgK6qfhmXVSWHlIwY8+QQ2LoRW7ArChgkUg="
+        }
+      ]
+    },
+    {
+      "Route": "images/wow.jpeg",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\wow.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BHW5+VwHYgK6qfhmXVSWHlIwY8+QQ2LoRW7ArChgkUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BHW5+VwHYgK6qfhmXVSWHlIwY8+QQ2LoRW7ArChgkUg="
+        }
+      ]
+    },
+    {
+      "Route": "images/zQ1mP6.6ji0vr9w95.jpg",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\zQ1mP6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "842679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LkfZlwvgFpus20AYIAMB9Gk4T9W+9mK0pQYWpCEvlKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6ji0vr9w95"
+        },
+        {
+          "Name": "label",
+          "Value": "images/zQ1mP6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LkfZlwvgFpus20AYIAMB9Gk4T9W+9mK0pQYWpCEvlKY="
+        }
+      ]
+    },
+    {
+      "Route": "images/zQ1mP6.jpg",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\zQ1mP6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "842679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LkfZlwvgFpus20AYIAMB9Gk4T9W+9mK0pQYWpCEvlKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LkfZlwvgFpus20AYIAMB9Gk4T9W+9mK0pQYWpCEvlKY="
+        }
+      ]
+    },
+    {
+      "Route": "index.8hy4ahliiy.html",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\5hwdg3sa8t-8hy4ahliiy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000520020801"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1922"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yOW66qHxgyPeaABseqptEZSvs/1hEhti6HWb4JVwxAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 18:19:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"jIV/QmZTKQhD0B/W7dSlC6FOESzEhVpKMOa2c+pyu2s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8hy4ahliiy"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jIV/QmZTKQhD0B/W7dSlC6FOESzEhVpKMOa2c+pyu2s="
+        }
+      ]
+    },
+    {
+      "Route": "index.8hy4ahliiy.html",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jIV/QmZTKQhD0B/W7dSlC6FOESzEhVpKMOa2c+pyu2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 18:19:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8hy4ahliiy"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jIV/QmZTKQhD0B/W7dSlC6FOESzEhVpKMOa2c+pyu2s="
+        }
+      ]
+    },
+    {
+      "Route": "index.8hy4ahliiy.html.gz",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\5hwdg3sa8t-8hy4ahliiy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yOW66qHxgyPeaABseqptEZSvs/1hEhti6HWb4JVwxAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 18:19:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8hy4ahliiy"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yOW66qHxgyPeaABseqptEZSvs/1hEhti6HWb4JVwxAs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\5hwdg3sa8t-8hy4ahliiy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000520020801"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1922"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yOW66qHxgyPeaABseqptEZSvs/1hEhti6HWb4JVwxAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 18:19:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"jIV/QmZTKQhD0B/W7dSlC6FOESzEhVpKMOa2c+pyu2s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jIV/QmZTKQhD0B/W7dSlC6FOESzEhVpKMOa2c+pyu2s="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jIV/QmZTKQhD0B/W7dSlC6FOESzEhVpKMOa2c+pyu2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 18:19:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jIV/QmZTKQhD0B/W7dSlC6FOESzEhVpKMOa2c+pyu2s="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\5hwdg3sa8t-8hy4ahliiy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yOW66qHxgyPeaABseqptEZSvs/1hEhti6HWb4JVwxAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 18:19:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yOW66qHxgyPeaABseqptEZSvs/1hEhti6HWb4JVwxAs="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\nyv7wr2by3-ulk3a2vy7d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001631321370"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "612"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ay6Xxv4tgpeAFqdd1wrV7WaerfPdqoqyF1RC+qmgaEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 18:26:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Eo3KLuA6AisHhPEz2mEP1BAcdhhXPNxJyHct4QH8fp4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Eo3KLuA6AisHhPEz2mEP1BAcdhhXPNxJyHct4QH8fp4="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1495"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Eo3KLuA6AisHhPEz2mEP1BAcdhhXPNxJyHct4QH8fp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 18:26:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Eo3KLuA6AisHhPEz2mEP1BAcdhhXPNxJyHct4QH8fp4="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\nyv7wr2by3-ulk3a2vy7d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "612"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ay6Xxv4tgpeAFqdd1wrV7WaerfPdqoqyF1RC+qmgaEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 18:26:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ay6Xxv4tgpeAFqdd1wrV7WaerfPdqoqyF1RC+qmgaEg="
+        }
+      ]
+    },
+    {
+      "Route": "script.ulk3a2vy7d.js",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\nyv7wr2by3-ulk3a2vy7d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001631321370"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "612"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ay6Xxv4tgpeAFqdd1wrV7WaerfPdqoqyF1RC+qmgaEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 18:26:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Eo3KLuA6AisHhPEz2mEP1BAcdhhXPNxJyHct4QH8fp4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ulk3a2vy7d"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Eo3KLuA6AisHhPEz2mEP1BAcdhhXPNxJyHct4QH8fp4="
+        }
+      ]
+    },
+    {
+      "Route": "script.ulk3a2vy7d.js",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1495"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Eo3KLuA6AisHhPEz2mEP1BAcdhhXPNxJyHct4QH8fp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 18:26:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ulk3a2vy7d"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Eo3KLuA6AisHhPEz2mEP1BAcdhhXPNxJyHct4QH8fp4="
+        }
+      ]
+    },
+    {
+      "Route": "script.ulk3a2vy7d.js.gz",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\nyv7wr2by3-ulk3a2vy7d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "612"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ay6Xxv4tgpeAFqdd1wrV7WaerfPdqoqyF1RC+qmgaEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 18:26:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ulk3a2vy7d"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ay6Xxv4tgpeAFqdd1wrV7WaerfPdqoqyF1RC+qmgaEg="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\wb5q0dd5e6-so0owp210o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000595238095"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1679"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c/TWNmUvN+89oiHbMMkushInp78vQl++jI3YXc9wVBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 19:09:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hGL0FfklU2qwb4RJXV7LEnIGBTQ1rNo1Kf+pT8tZpy0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hGL0FfklU2qwb4RJXV7LEnIGBTQ1rNo1Kf+pT8tZpy0="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hGL0FfklU2qwb4RJXV7LEnIGBTQ1rNo1Kf+pT8tZpy0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 19:09:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hGL0FfklU2qwb4RJXV7LEnIGBTQ1rNo1Kf+pT8tZpy0="
+        }
+      ]
+    },
+    {
+      "Route": "style.css.gz",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\wb5q0dd5e6-so0owp210o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c/TWNmUvN+89oiHbMMkushInp78vQl++jI3YXc9wVBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 19:09:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c/TWNmUvN+89oiHbMMkushInp78vQl++jI3YXc9wVBw="
+        }
+      ]
+    },
+    {
+      "Route": "style.so0owp210o.css",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\wb5q0dd5e6-so0owp210o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000595238095"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1679"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c/TWNmUvN+89oiHbMMkushInp78vQl++jI3YXc9wVBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 19:09:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hGL0FfklU2qwb4RJXV7LEnIGBTQ1rNo1Kf+pT8tZpy0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "so0owp210o"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hGL0FfklU2qwb4RJXV7LEnIGBTQ1rNo1Kf+pT8tZpy0="
+        }
+      ]
+    },
+    {
+      "Route": "style.so0owp210o.css",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hGL0FfklU2qwb4RJXV7LEnIGBTQ1rNo1Kf+pT8tZpy0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 19:09:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "so0owp210o"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hGL0FfklU2qwb4RJXV7LEnIGBTQ1rNo1Kf+pT8tZpy0="
+        }
+      ]
+    },
+    {
+      "Route": "style.so0owp210o.css.gz",
+      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\wb5q0dd5e6-so0owp210o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c/TWNmUvN+89oiHbMMkushInp78vQl++jI3YXc9wVBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 19:09:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "so0owp210o"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c/TWNmUvN+89oiHbMMkushInp78vQl++jI3YXc9wVBw="
+        }
+      ]
+    }
+  ]
+}
