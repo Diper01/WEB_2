@@ -44,3 +44,4 @@ C:\Users\dliak\RiderProjects\WebApplication1\WebApplication1\obj\Debug\net9.0\We
 C:\Users\dliak\RiderProjects\WebApplication1\WebApplication1\obj\Debug\net9.0\ref\WebApplication1.dll
 C:\Users\dliak\RiderProjects\WebApplication1\WebApplication1\obj\Debug\net9.0\compressed\nyv7wr2by3-ulk3a2vy7d.gz
 C:\Users\dliak\RiderProjects\WebApplication1\WebApplication1\obj\Debug\net9.0\compressed\wb5q0dd5e6-so0owp210o.gz
+C:\Users\dliak\RiderProjects\WebApplication1\WebApplication1\obj\Debug\net9.0\WebApplication1.sourcelink.json
