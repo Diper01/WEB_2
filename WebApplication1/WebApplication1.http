@@ -1,4 +1,4 @@
-@WebApplication1_HostAddress = http://localhost:5275
+@WebApplication1_HostAddress = https://diper01.github.io/WEB_2/
 
 GET {{WebApplication1_HostAddress}}/weatherforecast/
 Accept: application/json
