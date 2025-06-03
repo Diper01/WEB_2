@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fXkG8nz3GhqjsDh+f8Icf1ACX2syF6fORPx3cTSiiec=",
+  "Hash": "gb+CkKRAIaVEbbjhi1QboTAAn/zbQNCmVvsxdaHggUI=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -10,38 +10,38 @@
     {
       "Name": "WebApplication1\\wwwroot",
       "Source": "WebApplication1",
-      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\5hwdg3sa8t-8hy4ahliiy.gz",
+      "Identity": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\5hwdg3sa8t-5762n9w5y7.gz",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "index#[.{fingerprint=8hy4ahliiy}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=5762n9w5y7}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\index.html",
+      "RelatedAsset": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "owyipwidia",
-      "Integrity": "yOW66qHxgyPeaABseqptEZSvs/1hEhti6HWb4JVwxAs=",
+      "Fingerprint": "6t8ew50ev0",
+      "Integrity": "5gf2cuDa1huVdDX6wqDESyULhMzFRyAA7Szz5v9aHF0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\index.html"
+      "OriginalItemSpec": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\nyv7wr2by3-ulk3a2vy7d.gz",
+      "Identity": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\nyv7wr2by3-ulk3a2vy7d.gz",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "script#[.{fingerprint=ulk3a2vy7d}]?.js.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\script.js",
+      "RelatedAsset": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\script.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "hzo2z9q26v",
       "Integrity": "Ay6Xxv4tgpeAFqdd1wrV7WaerfPdqoqyF1RC+qmgaEg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\script.js"
+      "OriginalItemSpec": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\script.js"
     },
     {
-      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\wb5q0dd5e6-so0owp210o.gz",
+      "Identity": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\wb5q0dd5e6-so0owp210o.gz",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "style#[.{fingerprint=so0owp210o}]?.css.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\style.css",
+      "RelatedAsset": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\style.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "zk0yxbr13d",
       "Integrity": "c/TWNmUvN+89oiHbMMkushInp78vQl++jI3YXc9wVBw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\style.css"
+      "OriginalItemSpec": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\style.css"
     },
     {
-      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\about-bg–desktop.jpg",
+      "Identity": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\assets\\images\\about-bg–desktop.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "assets/images/about-bg–desktop#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\about-bg–desktop.jpg"
     },
     {
-      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\about-bg–mobile.jpg",
+      "Identity": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\assets\\images\\about-bg–mobile.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "assets/images/about-bg–mobile#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\about-bg–mobile.jpg"
     },
     {
-      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\services-bg–desktop.jpg",
+      "Identity": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\assets\\images\\services-bg–desktop.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "assets/images/services-bg–desktop#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\services-bg–desktop.jpg"
     },
     {
-      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\services-bg–mobile.jpg",
+      "Identity": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\assets\\images\\services-bg–mobile.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "assets/images/services-bg–mobile#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\services-bg–mobile.jpg"
     },
     {
-      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\video\\hero.mp4",
+      "Identity": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\assets\\video\\hero.mp4",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "assets/video/hero#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\video\\hero.mp4"
     },
     {
-      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\car.jpg",
+      "Identity": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\car.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/car#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\images\\car.jpg"
     },
     {
-      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\featured_image5d35a4e621070.png",
+      "Identity": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\featured_image5d35a4e621070.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/featured_image5d35a4e621070#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\images\\featured_image5d35a4e621070.png"
     },
     {
-      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\gold.jpeg",
+      "Identity": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\gold.jpeg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/gold#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gold.jpeg"
     },
     {
-      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\images.jpeg",
+      "Identity": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\images.jpeg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/images#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\images\\images.jpeg"
     },
     {
-      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\plainko.jpg",
+      "Identity": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\plainko.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/plainko#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\images\\plainko.jpg"
     },
     {
-      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\wow.jpeg",
+      "Identity": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\wow.jpeg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/wow#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\images\\wow.jpeg"
     },
     {
-      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\zQ1mP6.jpg",
+      "Identity": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\zQ1mP6.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/zQ1mP6#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\images\\zQ1mP6.jpg"
     },
     {
-      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\index.html",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -346,17 +346,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8hy4ahliiy",
-      "Integrity": "jIV/QmZTKQhD0B/W7dSlC6FOESzEhVpKMOa2c+pyu2s=",
+      "Fingerprint": "5762n9w5y7",
+      "Integrity": "H/n5si20e4biCmrXYW247xqEGwg6eISsNa339udxDAw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\script.js",
+      "Identity": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\script.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "script#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\script.js"
     },
     {
-      "Identity": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\style.css",
+      "Identity": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\style.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -398,7 +398,7 @@
   "Endpoints": [
     {
       "Route": "assets/images/about-bg–desktop.jpg",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\about-bg–desktop.jpg",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\assets\\images\\about-bg–desktop.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -419,7 +419,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -435,7 +435,7 @@
     },
     {
       "Route": "assets/images/about-bg–desktop.o9s1bny78h.jpg",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\about-bg–desktop.jpg",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\assets\\images\\about-bg–desktop.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -456,7 +456,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -480,7 +480,7 @@
     },
     {
       "Route": "assets/images/about-bg–mobile.jpg",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\about-bg–mobile.jpg",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\assets\\images\\about-bg–mobile.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -501,7 +501,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -517,7 +517,7 @@
     },
     {
       "Route": "assets/images/about-bg–mobile.rzll12s62u.jpg",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\about-bg–mobile.jpg",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\assets\\images\\about-bg–mobile.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -538,7 +538,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -562,7 +562,7 @@
     },
     {
       "Route": "assets/images/services-bg–desktop.jpg",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\services-bg–desktop.jpg",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\assets\\images\\services-bg–desktop.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -583,7 +583,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -599,7 +599,7 @@
     },
     {
       "Route": "assets/images/services-bg–desktop.n43rzc95xe.jpg",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\services-bg–desktop.jpg",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\assets\\images\\services-bg–desktop.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -620,7 +620,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -644,7 +644,7 @@
     },
     {
       "Route": "assets/images/services-bg–mobile.h1nx654soa.jpg",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\services-bg–mobile.jpg",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\assets\\images\\services-bg–mobile.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -665,7 +665,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -689,7 +689,7 @@
     },
     {
       "Route": "assets/images/services-bg–mobile.jpg",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\services-bg–mobile.jpg",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\assets\\images\\services-bg–mobile.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -710,7 +710,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -726,7 +726,7 @@
     },
     {
       "Route": "assets/video/hero.krzv7hq246.mp4",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\video\\hero.mp4",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\assets\\video\\hero.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -747,7 +747,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -771,7 +771,7 @@
     },
     {
       "Route": "assets/video/hero.mp4",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\assets\\video\\hero.mp4",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\assets\\video\\hero.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -792,7 +792,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -808,7 +808,7 @@
     },
     {
       "Route": "images/car.3sb4roctgk.jpg",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\car.jpg",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\car.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -829,7 +829,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -853,7 +853,7 @@
     },
     {
       "Route": "images/car.jpg",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\car.jpg",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\car.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -874,7 +874,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -890,7 +890,7 @@
     },
     {
       "Route": "images/featured_image5d35a4e621070.o08d186xzm.png",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\featured_image5d35a4e621070.png",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\featured_image5d35a4e621070.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -911,7 +911,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -935,7 +935,7 @@
     },
     {
       "Route": "images/featured_image5d35a4e621070.png",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\featured_image5d35a4e621070.png",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\featured_image5d35a4e621070.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -956,7 +956,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -972,7 +972,7 @@
     },
     {
       "Route": "images/gold.jpeg",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\gold.jpeg",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\gold.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -993,7 +993,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1009,7 +1009,7 @@
     },
     {
       "Route": "images/gold.nudux145jq.jpeg",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\gold.jpeg",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\gold.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1030,7 +1030,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1054,7 +1054,7 @@
     },
     {
       "Route": "images/images.jpeg",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\images.jpeg",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\images.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1075,7 +1075,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1091,7 +1091,7 @@
     },
     {
       "Route": "images/images.xffwsyed43.jpeg",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\images.jpeg",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\images.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1112,7 +1112,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1136,7 +1136,7 @@
     },
     {
       "Route": "images/plainko.7gk8oo24ty.jpg",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\plainko.jpg",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\plainko.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1157,7 +1157,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1181,7 +1181,7 @@
     },
     {
       "Route": "images/plainko.jpg",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\plainko.jpg",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\plainko.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1202,7 +1202,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1218,7 +1218,7 @@
     },
     {
       "Route": "images/wow.cso2h0rpab.jpeg",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\wow.jpeg",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\wow.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1239,7 +1239,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1263,7 +1263,7 @@
     },
     {
       "Route": "images/wow.jpeg",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\wow.jpeg",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\wow.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1284,7 +1284,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1300,7 +1300,7 @@
     },
     {
       "Route": "images/zQ1mP6.6ji0vr9w95.jpg",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\zQ1mP6.jpg",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\zQ1mP6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1321,7 +1321,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1345,7 +1345,7 @@
     },
     {
       "Route": "images/zQ1mP6.jpg",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\images\\zQ1mP6.jpg",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\images\\zQ1mP6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1366,7 +1366,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:46:49 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1381,13 +1381,13 @@
       ]
     },
     {
-      "Route": "index.8hy4ahliiy.html",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\5hwdg3sa8t-8hy4ahliiy.gz",
+      "Route": "index.5762n9w5y7.html",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\5hwdg3sa8t-5762n9w5y7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000520020801"
+          "Quality": "0.000504795558"
         }
       ],
       "ResponseHeaders": [
@@ -1397,15 +1397,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1922"
+          "Value": "1980"
         },
         {
           "Name": "ETag",
-          "Value": "\"yOW66qHxgyPeaABseqptEZSvs/1hEhti6HWb4JVwxAs=\""
+          "Value": "\"5gf2cuDa1huVdDX6wqDESyULhMzFRyAA7Szz5v9aHF0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 18:19:50 GMT"
+          "Value": "Tue, 03 Jun 2025 09:53:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1425,13 +1425,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jIV/QmZTKQhD0B/W7dSlC6FOESzEhVpKMOa2c+pyu2s=\""
+          "Value": "W/\"H/n5si20e4biCmrXYW247xqEGwg6eISsNa339udxDAw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8hy4ahliiy"
+          "Value": "5762n9w5y7"
         },
         {
           "Name": "label",
@@ -1439,13 +1439,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jIV/QmZTKQhD0B/W7dSlC6FOESzEhVpKMOa2c+pyu2s="
+          "Value": "sha256-H/n5si20e4biCmrXYW247xqEGwg6eISsNa339udxDAw="
         }
       ]
     },
     {
-      "Route": "index.8hy4ahliiy.html",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\index.html",
+      "Route": "index.5762n9w5y7.html",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1454,7 +1454,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6808"
+          "Value": "6965"
         },
         {
           "Name": "Content-Type",
@@ -1462,11 +1462,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jIV/QmZTKQhD0B/W7dSlC6FOESzEhVpKMOa2c+pyu2s=\""
+          "Value": "\"H/n5si20e4biCmrXYW247xqEGwg6eISsNa339udxDAw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 18:19:50 GMT"
+          "Value": "Tue, 03 Jun 2025 09:53:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1476,7 +1476,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8hy4ahliiy"
+          "Value": "5762n9w5y7"
         },
         {
           "Name": "label",
@@ -1484,13 +1484,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jIV/QmZTKQhD0B/W7dSlC6FOESzEhVpKMOa2c+pyu2s="
+          "Value": "sha256-H/n5si20e4biCmrXYW247xqEGwg6eISsNa339udxDAw="
         }
       ]
     },
     {
-      "Route": "index.8hy4ahliiy.html.gz",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\5hwdg3sa8t-8hy4ahliiy.gz",
+      "Route": "index.5762n9w5y7.html.gz",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\5hwdg3sa8t-5762n9w5y7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1499,7 +1499,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1922"
+          "Value": "1980"
         },
         {
           "Name": "Content-Type",
@@ -1507,11 +1507,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yOW66qHxgyPeaABseqptEZSvs/1hEhti6HWb4JVwxAs=\""
+          "Value": "\"5gf2cuDa1huVdDX6wqDESyULhMzFRyAA7Szz5v9aHF0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 18:19:50 GMT"
+          "Value": "Tue, 03 Jun 2025 09:53:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1529,7 +1529,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8hy4ahliiy"
+          "Value": "5762n9w5y7"
         },
         {
           "Name": "label",
@@ -1537,18 +1537,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yOW66qHxgyPeaABseqptEZSvs/1hEhti6HWb4JVwxAs="
+          "Value": "sha256-5gf2cuDa1huVdDX6wqDESyULhMzFRyAA7Szz5v9aHF0="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\5hwdg3sa8t-8hy4ahliiy.gz",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\5hwdg3sa8t-5762n9w5y7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000520020801"
+          "Quality": "0.000504795558"
         }
       ],
       "ResponseHeaders": [
@@ -1558,15 +1558,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1922"
+          "Value": "1980"
         },
         {
           "Name": "ETag",
-          "Value": "\"yOW66qHxgyPeaABseqptEZSvs/1hEhti6HWb4JVwxAs=\""
+          "Value": "\"5gf2cuDa1huVdDX6wqDESyULhMzFRyAA7Szz5v9aHF0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 18:19:50 GMT"
+          "Value": "Tue, 03 Jun 2025 09:53:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1586,19 +1586,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jIV/QmZTKQhD0B/W7dSlC6FOESzEhVpKMOa2c+pyu2s=\""
+          "Value": "W/\"H/n5si20e4biCmrXYW247xqEGwg6eISsNa339udxDAw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jIV/QmZTKQhD0B/W7dSlC6FOESzEhVpKMOa2c+pyu2s="
+          "Value": "sha256-H/n5si20e4biCmrXYW247xqEGwg6eISsNa339udxDAw="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1607,7 +1607,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6808"
+          "Value": "6965"
         },
         {
           "Name": "Content-Type",
@@ -1615,11 +1615,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jIV/QmZTKQhD0B/W7dSlC6FOESzEhVpKMOa2c+pyu2s=\""
+          "Value": "\"H/n5si20e4biCmrXYW247xqEGwg6eISsNa339udxDAw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 18:19:50 GMT"
+          "Value": "Tue, 03 Jun 2025 09:53:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1629,13 +1629,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jIV/QmZTKQhD0B/W7dSlC6FOESzEhVpKMOa2c+pyu2s="
+          "Value": "sha256-H/n5si20e4biCmrXYW247xqEGwg6eISsNa339udxDAw="
         }
       ]
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\5hwdg3sa8t-8hy4ahliiy.gz",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\5hwdg3sa8t-5762n9w5y7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1644,7 +1644,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1922"
+          "Value": "1980"
         },
         {
           "Name": "Content-Type",
@@ -1652,11 +1652,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yOW66qHxgyPeaABseqptEZSvs/1hEhti6HWb4JVwxAs=\""
+          "Value": "\"5gf2cuDa1huVdDX6wqDESyULhMzFRyAA7Szz5v9aHF0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 18:19:50 GMT"
+          "Value": "Tue, 03 Jun 2025 09:53:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1674,13 +1674,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yOW66qHxgyPeaABseqptEZSvs/1hEhti6HWb4JVwxAs="
+          "Value": "sha256-5gf2cuDa1huVdDX6wqDESyULhMzFRyAA7Szz5v9aHF0="
         }
       ]
     },
     {
       "Route": "script.js",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\nyv7wr2by3-ulk3a2vy7d.gz",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\nyv7wr2by3-ulk3a2vy7d.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1703,7 +1703,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 18:26:10 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1735,7 +1735,7 @@
     },
     {
       "Route": "script.js",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\script.js",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1756,7 +1756,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 18:26:10 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1772,7 +1772,7 @@
     },
     {
       "Route": "script.js.gz",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\nyv7wr2by3-ulk3a2vy7d.gz",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\nyv7wr2by3-ulk3a2vy7d.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1793,7 +1793,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 18:26:10 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1817,7 +1817,7 @@
     },
     {
       "Route": "script.ulk3a2vy7d.js",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\nyv7wr2by3-ulk3a2vy7d.gz",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\nyv7wr2by3-ulk3a2vy7d.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1840,7 +1840,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 18:26:10 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1880,7 +1880,7 @@
     },
     {
       "Route": "script.ulk3a2vy7d.js",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\script.js",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1901,7 +1901,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 18:26:10 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1925,7 +1925,7 @@
     },
     {
       "Route": "script.ulk3a2vy7d.js.gz",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\nyv7wr2by3-ulk3a2vy7d.gz",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\nyv7wr2by3-ulk3a2vy7d.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1946,7 +1946,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 18:26:10 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1978,7 +1978,7 @@
     },
     {
       "Route": "style.css",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\wb5q0dd5e6-so0owp210o.gz",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\wb5q0dd5e6-so0owp210o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2001,7 +2001,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 19:09:41 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2033,7 +2033,7 @@
     },
     {
       "Route": "style.css",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\style.css",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2054,7 +2054,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 19:09:41 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2070,7 +2070,7 @@
     },
     {
       "Route": "style.css.gz",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\wb5q0dd5e6-so0owp210o.gz",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\wb5q0dd5e6-so0owp210o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2091,7 +2091,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 19:09:41 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2115,7 +2115,7 @@
     },
     {
       "Route": "style.so0owp210o.css",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\wb5q0dd5e6-so0owp210o.gz",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\wb5q0dd5e6-so0owp210o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2138,7 +2138,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 19:09:41 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2178,7 +2178,7 @@
     },
     {
       "Route": "style.so0owp210o.css",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\style.css",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\wwwroot\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2199,7 +2199,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 19:09:41 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2223,7 +2223,7 @@
     },
     {
       "Route": "style.so0owp210o.css.gz",
-      "AssetFile": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\wb5q0dd5e6-so0owp210o.gz",
+      "AssetFile": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\wb5q0dd5e6-so0owp210o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2244,7 +2244,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 19:09:41 GMT"
+          "Value": "Tue, 03 Jun 2025 09:48:00 GMT"
         },
         {
           "Name": "Cache-Control",

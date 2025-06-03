@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R3JL7MZIBaA=",
+  "dgSpecHash": "sZBll32FC60=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dliak\\RiderProjects\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\dliak\\Desktop\\WEB\\WEB_2\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dliak\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\dliak\\.nuget\\packages\\mailkit\\4.12.1\\mailkit.4.12.1.nupkg.sha512",
